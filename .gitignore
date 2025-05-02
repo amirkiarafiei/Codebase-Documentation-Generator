@@ -98,6 +98,18 @@ coverage/
 # LLM cache
 llm_cache.json
 
+<<<<<<< HEAD
 # I/O files
 input/**/*
 output/**/*
+=======
+# Output files
+output/
+
+# uv manage
+pyproject.toml
+uv.lock
+
+docs/*.pdf
+docs/design-cn.md
+>>>>>>> c765bff25740f2ba77cff6bde0fcf8989ee8d803
